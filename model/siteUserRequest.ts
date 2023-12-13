@@ -18,7 +18,7 @@ export class SiteUserRequest {
     */
     'firstName': string;
     /**
-    * Middle name
+    * Middle intial
     */
     'middleInitial'?: string;
     /**
