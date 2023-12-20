@@ -143,6 +143,8 @@ export class ImportResponse {
 export namespace ImportResponse {
     export enum EntityTypeCodeNameEnum {
         Contacts = <any> 'contacts',
+        Invoices = <any> 'invoices',
+        InvoiceLineItems = <any> 'invoice_line_items',
         MapFeatures = <any> 'map_features',
         Rentals = <any> 'rentals',
         Units = <any> 'units'
