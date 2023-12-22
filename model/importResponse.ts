@@ -146,6 +146,7 @@ export namespace ImportResponse {
         Invoices = <any> 'invoices',
         InvoiceLineItems = <any> 'invoice_line_items',
         MapFeatures = <any> 'map_features',
+        PaymentTransactions = <any> 'payment_transactions',
         Rentals = <any> 'rentals',
         Units = <any> 'units'
     }
